@@ -1,0 +1,6 @@
+{
+  "name": "أثر: عادات ذرية ولامبالاة واعية",
+  "description": "تطبيق متقدم لتتبع العادات اليومية والصحية والعملية مبني على مبادئ كتاب العادات الذرية وفلسفة فن اللامبالاة، قابل للتثبيت على الهاتف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
